@@ -1,0 +1,14 @@
+torch>=1.8
+numpy
+pandas
+blobfile
+nibabel
+opencv-python
+scikit-image
+matplotlib
+batchgenerators
+visdom
+SimpleITK
+torchsummary
+einops==0.6.1
+timm==0.9.2
